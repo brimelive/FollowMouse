@@ -4,9 +4,9 @@
 <p align="center">
 	A program that presses a key when you move your mouse to another monitor.
 	<br />
-	<small>
+	<sup>
 		(useful for automatically changing scenes while livestreaming)
-	</small>
+	</sup>
 	<br />
 	<a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 </p>

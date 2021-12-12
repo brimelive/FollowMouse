@@ -25,7 +25,7 @@
 <br />
 
 # Usage
-1) Grab the latest windows release zip from [here](/releases/latest).
+1) Grab the latest windows release zip from [here](https://github.com/brimelive/FollowMouse/releases/latest).
 2) Double-click the executable
 3) Profit! See the [Configuration Section](#configuration) for info on how to configure what it does.
 

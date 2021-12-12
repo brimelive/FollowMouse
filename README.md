@@ -20,7 +20,7 @@
 		<br />
 		<br />
 		<br />
-		Follow mouse is a tool for automatically switching scenes in OBS whenever you're live, That way OBS can always be showing the monitor that the mouse is on!
+		Follow mouse is a tool for automatically switching scenes in OBS whenever you're live, that way OBS can always be showing the monitor that the mouse is on!
 	</p>
 </div>
 
@@ -33,7 +33,7 @@
 
 # Usage
 1) Grab the latest windows release zip from [here](https://github.com/brimelive/FollowMouse/releases/latest).
-2) Double-click the executable
+2) Double-click the .exe
 3) Profit! See the [Configuration Section](#configuration) for info on how to configure what it does.
 
 You can disable the program by right-clicking the tray icon and pressing `Enabled`, the checkmark beside the button tells you whether or not it's enabled currently.

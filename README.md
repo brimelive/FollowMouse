@@ -10,7 +10,7 @@
 	<br />
 	<a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 </p>
-<img src="https://assets.brimecdn.com/brime/share/2021/12/follow_mouse_256px.png" alt="FollowMouse Logo" align="right" height="200px" style="border-radius: 2px;"><br>
+<img src="https://assets.brimecdn.com/brime/share/2021/12/follow_mouse_256px.png" alt="FollowMouse Logo" align="center" height="200px" style="border-radius: 2px;"><br>
 <br />
 <br />
 

@@ -12,15 +12,22 @@
 </p>
 
 <br />
+<br />
 
 <div>
 	<img src="https://github.com/brimelive/FollowMouse/raw/main/assets/follow_mouse_demo.gif" alt="FollowMouse Demo" align="right" height="240px" style="border-radius: 2px;">
 	<p align="center">
 		<br />
+		<br />
+		<br />
 		Follow mouse is a tool for automatically switching scenes in OBS whenever you're live, That way OBS can always be showing the monitor that the mouse is on!
 	</p>
 </div>
 
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 

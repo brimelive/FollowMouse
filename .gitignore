@@ -1,0 +1,17 @@
+# IntelliJ
+*.iml
+.idea/
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# Common
+target/
+dist/
+
+# Misc
+/config.json
+runtime.zip
+runtime.tar.gz

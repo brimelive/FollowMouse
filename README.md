@@ -2,7 +2,7 @@
 # FollowMouse
 
 <p align="center">
-	<img src="https://assets.brimecdn.com/brime/share/2021/12/follow_mouse_256px.png" alt="FollowMouse Logo" align="center" height="200px" style="border-radius: 2px;">
+	<img src="https://github.com/brimelive/FollowMouse/raw/main/assets/logo.svg" alt="FollowMouse Logo" align="center" height="200px" style="border-radius: 2px;">
 	<br />
 	A program that presses a key when you move your mouse to another monitor.
 	<br />
